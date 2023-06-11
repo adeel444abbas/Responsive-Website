@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.slider1,
+.slider2,
+.slider3 {
+  height: 70vh;
+}
+
+.mynavbar a {
+  font-weight: bold;
+}
+.navbar-buttons button {
+  color: white;
+  text-transform: capitalize;
+}
